@@ -7,9 +7,6 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test"
   },
   "dependencies": {
     "@capacitor/cli": "^7.4.3",

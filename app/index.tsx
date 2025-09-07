@@ -5,7 +5,7 @@ import { StyleSheet, View, SafeAreaView, StatusBar } from 'react-native';
 
 // !!! IMPORTANT !!!
 // Replace this URL with the public URL of your deployed web application from Part 1.
-const WEB_APP_URL = 'https://your-arogya-sahayak-app.vercel.app';
+const WEB_APP_URL = 'Enter Web Ui';
 
 export default function App() {
   return (

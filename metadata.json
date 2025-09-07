@@ -1,0 +1,7 @@
+{
+  "name": "Arogya Sahayak: Community Health Monitor",
+  "description": "A smart community health monitoring and early warning system for water-borne diseases in rural areas. Features an AI health assistant, disease hotspot mapping, real-time local health statistics, educational modules, and multilingual support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -5,7 +5,7 @@ import { StyleSheet, View, SafeAreaView, StatusBar } from 'react-native';
 
 // !!! IMPORTANT !!!
 // Replace this URL with the public URL of your deployed web application from Part 1.
-const WEB_APP_URL = 'http://sih-2025-qcrpi0mdp-k-aushal4508s-projects.vercel.app';
+const WEB_APP_URL = 'https://sih-2025-sooty.vercel.app/';
 
 export default function App() {
   return (
